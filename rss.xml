@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Gentry Beta]]></title>
+        <description><![CDATA[Tim Gentry Beta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 19:44:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://intpolicydigest.org/2015/07/06/corporate-activism-is-on-the-rise/</p>]]></description>
+            <link>undefinedhttpintpolicydigestorg20150706corporate-activism-is-/index.html</link>
+            <guid isPermaLink="false">10a3c28a-d0df-4e1c-b61e-93fa8b02b45b</guid>
+            <pubDate>Tue, 03 May 2016 19:44:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
