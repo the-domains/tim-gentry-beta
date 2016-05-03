@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tim Gentry Beta]]></title>
         <description><![CDATA[Tim Gentry Beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tim-gentry-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 19:44:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 19:46:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tim-gentry-beta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://intpolicydigest.org/2015/07/06/corporate-activism-is-on-the-rise/</p>]]></description>
-            <link>undefinedhttpintpolicydigestorg20150706corporate-activism-is-/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/480a89c0-bdd5-4e00-84ce-2830a4bfdf8c.jpg">]]></description>
+            <link>https://thegrid.ai/tim-gentry-beta/httpintpolicydigestorg20150706corporate-activism-is-/index.html</link>
             <guid isPermaLink="false">10a3c28a-d0df-4e1c-b61e-93fa8b02b45b</guid>
-            <pubDate>Tue, 03 May 2016 19:44:28 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 19:46:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
