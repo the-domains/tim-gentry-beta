@@ -1,6 +1,6 @@
 name: Tim Gentry Beta
 favicon: null
-layout_spectrum: 0.6250297385267913
+layout_spectrum: 0.35418
 typography_spectrum: 0.16585683613084257
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4074066486209631
+  brandStrength: 0.5
   lightness: 0.3668221721891314
   saturation: 0.8999190067406744
   rhythmicContrast: 0.6152821786236018
