@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://intpolicydigest.org/2015/07/06/corporate-activism-is-on-the-rise/'
-datePublished: '2016-05-03T22:05:10.605Z'
-dateModified: '2016-05-03T22:05:06.498Z'
+datePublished: '2016-05-04T20:32:32.773Z'
+dateModified: '2016-05-04T20:32:08.437Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-httpintpolicydigestorg20150706corporate-activism-is-.md
-published: true
 authors: []
 publisher:
   name: null
@@ -23,8 +22,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c701e718-bd5c-46a0-851a-49ae392db52e.jpg)
-
-# 
 
 # Corporate Activism is on the Rise
 
@@ -68,6 +65,7 @@ The role of corporate activism in society as a whole will only become more relev
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/480a89c0-bdd5-4e00-84ce-2830a4bfdf8c.jpg)
 
 http://intpolicydigest.org/2015/07/06/corporate-activism-is-on-the-rise/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90eafb9f-3df5-409e-83d0-f09436f488ef.jpg)
 
 [0]: http://intpolicydigest.org/author/dante-alighieri-disparte/ "Posts by Dante Alighieri Disparte"
 [1]: http://intpolicydigest.org/author/tim-gentry/ "Posts by Timothy H. Gentry"
